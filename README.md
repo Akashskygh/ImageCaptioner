@@ -1,2 +1,1 @@
-# ImageCaptioner
-This Python script demonstrates Hugging Face's Transformers library integration for an effective image captioning system. Its core model, blending ViT and GPT-2 architectures, accurately generates captions for images. Modular functions handle image processing, caption generation, and display tasks.
+This Python script utilizes Hugging Face's Transformers library to generate image captions efficiently. It combines a VisionEncoderDecoderModel, merging Vision Transformer (ViT) and GPT-2 architectures. The code offers functions for loading images, generating captions, formatting text, and displaying images with their captions.
